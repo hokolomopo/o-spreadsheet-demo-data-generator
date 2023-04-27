@@ -1,0 +1,12 @@
+{
+  "name": "generatedemodata",
+  "version": "1.0.0",
+  "description": "Generate demo data for o-spreadsheet",
+  "main": "src/generateDemoData.js-debug-companion",
+  "type": "module",
+  "scripts": {
+    "main": "node src/generateDemoData.js"
+  },
+  "author": "Adrien Minne",
+  "license": "ISC"
+}
